@@ -1,5 +1,5 @@
-proj2Test
-=========
+proj2
+=====
 
 Test script for vutbr FIT 2014-2015 IZP proj2 in bash.
 
